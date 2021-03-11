@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "widget-with-persist3"
+  description: "desvro"
+  annotations:
+    github.com/project-slug: moatazelmohtaseb/widget-with-persist3
+    backstage.io/techdocs-ref: url:https://github.com/moatazelmohtaseb/widget-with-persist3
+  tags:
+    - af-widget
+    - react
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "user:guest"

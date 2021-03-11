@@ -1,0 +1,12 @@
+{
+  "title": "QR/Barcode Scanner Props",
+  "type": "object",
+  "required": [],
+  "properties": {
+    "title": {
+      "type": "string",
+      "title": "Title",
+      "default": "QR/Barcode Scanner"
+    }
+  }
+}
